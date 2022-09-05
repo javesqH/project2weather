@@ -37,7 +37,7 @@ function App() {
   return (
     <div className="App">
       <div>
-      <img src="/src/assets/atardecer-en-el-mar_1920x1200_xtrafondos.com.jpg" className='imgbackk' alt="" />
+      <img src="/src/assets/atardecer-en-el-mar_1920x1200_xtrafondos.com.jpg" className='imgbackk' alt="img paisaje del mar" />
         <div>
           <div className='card'>
             <h1>Weather app</h1>
