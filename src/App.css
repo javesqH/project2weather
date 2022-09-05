@@ -1,0 +1,34 @@
+
+.imgbackk{
+    position:absolute;
+   height: 630px;
+   width:1350px;
+   z-index: -1;
+}
+
+.card {
+    position:static;
+    width: 400px;
+    height: 400px;
+    background: rgb(235, 235, 62);
+    text-align: center;
+    margin: auto;
+    padding-top: 40px;
+    padding-bottom: 100px;
+    opacity: 65%;
+    border-radius: 1%;
+}
+
+.card img {
+    width: 200px;
+    height: 200px;
+    
+}
+
+.card p {
+    font-size: 2rem;
+}
+
+.card button {
+    cursor:pointer;
+}
